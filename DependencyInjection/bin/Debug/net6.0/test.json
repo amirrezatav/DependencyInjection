@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "Amirreza Tavkoli",
+    "_scores": {
+      "Math": 19.5,
+      "data structure": 20,
+      "electrical circuit": 12,
+      "Electronic": 10
+    }
+  },
+  {
+    "Name": "Ali Mohammadi",
+    "_scores": {
+      "Math": 11,
+      "data structure": 5,
+      "electrical circuit": 3,
+      "Electronic": 5
+    }
+  },
+  {
+    "Name": "Reza Miri",
+    "_scores": {
+      "Math": 14,
+      "data structure": 20,
+      "electrical circuit": 9,
+      "Electronic": 20
+    }
+  }
+]
